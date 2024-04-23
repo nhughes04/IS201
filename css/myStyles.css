@@ -1,0 +1,65 @@
+h1{
+    color: whitesmoke;
+    text-decoration: underline;
+}
+
+.common{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(197, 194, 194);
+}
+
+.header{
+    background-color: black;
+    color: whitesmoke;
+    height: 50px;
+    line-height: 50px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.body{
+    color: rgb(43, 43, 43);
+}
+
+.footer{
+    background-color: black;
+    color: whitesmoke;
+    height: 25px;
+    line-height: 25px;
+
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 400px;
+}
+
+#top{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.tableauPlaceholder{
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
